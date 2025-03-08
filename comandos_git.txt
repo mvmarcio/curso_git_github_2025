@@ -13,3 +13,5 @@ git config --global user.email "mv.marcioalves@gmail.com" cria um endereço glob
 git config --global user.name "Marcio": muda o nome do usuário global
 .A gente não mexe na pasta Git.
 nano comandos_git.txt: o comando nano cria um arquivo de texto dentro do terminal.
+git log: vemos todos os check points
+rm -rf: remove de forma de forma recursiva e forçada todos os diretórios.
