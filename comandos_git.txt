@@ -1,0 +1,15 @@
+ls: lista todos os arquivos de onde eu estou.
+cd: muda de diretório
+pwd: mostra o caminho absoluto de onde eu estou.
+ls -a: aparece arquivos ocultos.
+mkdir: cria uma pasta no diretório.
+cat: mostra o que tem dentro de um arquivo
+git init .: deixa a pasta especial que pode ser versionada.
+rm -rf .git/: apaga a pasta
+git status: me mostra como está o diretório
+git add: adiciona aquilo que eu quero que vá para o commit
+git commit -m: "commitando" arquivos. Todo commit precisa ser assinado por alguém. 
+git config --global user.email "mv.marcioalves@gmail.com" cria um endereço global.
+git config --global user.name "Marcio": muda o nome do usuário global
+.A gente não mexe na pasta Git.
+nano comandos_git.txt: o comando nano cria um arquivo de texto dentro do terminal.
