@@ -5,3 +5,8 @@ Este arquivo contém arquivos secundários para git.
 
 # Comandos mais genéricos
 .comandos estranhos
+
+# Mais comandos!!!
+kdmfmamc
+mdlmelm
+dacmaçl
