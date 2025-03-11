@@ -1,0 +1,7 @@
+ls: list files
+cd: move between directories
+pwd: show working directory
+cat:
+rm
+
+test

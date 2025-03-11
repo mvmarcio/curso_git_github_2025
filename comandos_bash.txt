@@ -1,7 +1,0 @@
-ls: lista arquivos
-cd: move entre diretórios
-pwd: mostra o diretório de trabalho
-cat:
-rm
-
-teste
