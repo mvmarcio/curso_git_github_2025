@@ -41,6 +41,8 @@ We will also work with GitFlow at the end of the course and Visual Studio Code.
 9. go back to step 3.
 7. git commit -m "Message"
 8. git status
+9. git fetch (open all branches). This is importante.
+    
 
 
 
